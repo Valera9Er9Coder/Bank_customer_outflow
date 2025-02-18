@@ -13,4 +13,5 @@ This project aims to classify toxic comments using machine learning models. It d
  Installation
 1. Clone this repository:
    `bash
-   git clone https://github.com/Valera9Er9Coder/toxic_comment_classifier.git
+   git clone https://github.com/Valera9Er9Coder/Bank_customer_outflow.git
+   
